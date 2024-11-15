@@ -5,7 +5,7 @@ mineflayer = require("mineflayer")
 
 # Create bot with basic parameters
 bot = mineflayer.createBot(
-    {"username": "simple-bot", "host": "localhost", "port": 3000, "version": "1.19.4", "hideErrors": False}
+    {"username": "Admin", "host": "192.168.178.146", "port": 25565, "version": "1.20.1", "hideErrors": False}
 )
 
 # Login event required for bot
